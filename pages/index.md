@@ -1,7 +1,18 @@
-# Welcome to my site
+# My Writings
+### - Muhammad Mahadi Hasan
 
-### This is fancy
+<!-- date  +"%Y_%B_%C" -->
+## Journal
+- [2023_December_20](?2023_December_20)
 
-This is written in markdown
+## All Writings
+
+- No writings are available right now
+
+
+
+#### Markdown Help Page
 
 Check out [this markdown page](?test)
+
+
