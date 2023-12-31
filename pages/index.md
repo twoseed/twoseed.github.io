@@ -3,6 +3,10 @@
 
 <!-- date  +"%Y_%B_%C" -->
 ## Journal
+- [New Year coming soon...](?)
+---
+- [31 December 2023](?2023_December_31)
+- 31 December 2023
 - [29 December 2023](?2023_December_29)
 - [28 December 2023](?2023_December_28)
 - [27 December 2023](?2023_December_27)
